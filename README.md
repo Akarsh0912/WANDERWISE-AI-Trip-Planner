@@ -21,6 +21,7 @@
 - **REACT_APP_FIREBASE_MESSAGING_SENDER_ID**=your_firebase_messaging_sender_id
 - **REACT_APP_FIREBASE_APP_ID**=your_firebase_app_id
 - **REACT_APP_GOOGLE_GEMINI_API_KEY**=your_google_gemini_api_key
+- **REACT_APP_GOOGLE_PLACE_API_KEY**=your_google_place_api_key
 
 
 
